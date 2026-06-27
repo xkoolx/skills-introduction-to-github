@@ -1,1 +1,2 @@
-Welcome to my GitHub profile! .:|GL|:.
+Welcome to my GitHub profile!
+...
